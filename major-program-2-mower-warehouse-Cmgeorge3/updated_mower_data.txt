@@ -1,0 +1,38 @@
+
+
+0
+
+C
+
+0.0
+0
+
+0.0
+150.5
+true
+Green Cutter
+2023
+LT-2023-001
+L
+Lawn Engine Co.
+18.0
+1
+Home Pro
+42.0
+Quick Cut
+2024
+RM-2024-001
+G
+21.0
+8.0
+Small Engine Corp
+5.5
+1
+true
+Eco Cut
+2023
+PR-2023-001
+P
+18.0
+6.0
+5
