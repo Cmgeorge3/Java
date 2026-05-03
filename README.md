@@ -1,2 +1,2 @@
 # Java
-All java projects I've done at A&amp;T University
+All of the Java/JavaFx projects I've done at North Carolina Agricultural & Technical State University
